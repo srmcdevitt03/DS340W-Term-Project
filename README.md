@@ -2,7 +2,7 @@
 
 ### Stephen McDevitt & Jacob Lukasik
 
-## Research Paper 1 - Parent Paper
+## Research Paper 1
 
 **Paper Link:** [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics](https://dl.acm.org/doi/pdf/10.1145/3580305.3599803)
 
@@ -10,7 +10,7 @@
 
 [**Input Data Link**](https://drive.google.com/drive/folders/1MRPXz79Lu_JGLlJ21MDfML44dKN9R08l)
 
-## Research Paper 2
+## Research Paper 2 - Parent Paper
 
 **Paper Link:** [Pump and Dumps in the Bitcoin Era: Real Time Detection of Cryptocurrency Market Manipulations](https://massimolamorgia.com/assets/pdf/Pump_Dump__ICCCN__2020.pdf)
 
