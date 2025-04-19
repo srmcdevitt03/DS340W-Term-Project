@@ -2,6 +2,8 @@
 
 ### Stephen McDevitt & Jacob Lukasik
 
+# Previous Works Researched and Referenced
+
 ## Research Paper 1
 
 **Paper Link:** [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics](https://dl.acm.org/doi/pdf/10.1145/3580305.3599803)
