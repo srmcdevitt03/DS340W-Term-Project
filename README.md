@@ -30,6 +30,10 @@ Our project seeks to detect anomalies in cryptocurrency transactions, building u
 
 ## Running Our Code:
 
+Our enhanced implementation can be found in this repository by navigating to:
+
+`project-implementation/TermProjectImplementation.ipynb`
+
 Prior to running our code, make sure you have the following libraries installed in your Python environment:
 
   - pandas
@@ -45,3 +49,15 @@ Prior to running our code, make sure you have the following libraries installed 
 You can install all of them by running the following in your python terminal:
 
 `pip install pandas matplotlib seaborn scikit-learn xgboost`
+
+## Our Data
+
+Our data was sourced directly from the dataset used in [Pump and Dumps in the Bitcoin Era: Real Time Detection of Cryptocurrency Market Manipulations](https://massimolamorgia.com/assets/pdf/Pump_Dump__ICCCN__2020.pdf). The three individual datasets are too large to store individually in GitHub, so they are public in Google Drive. They can be accessed through the following three links:
+
+https://drive.google.com/file/d/1hNtlYbl-HNIgWYF5ZL2jkhvTs_987Bcn/view?usp=drive_link, 
+
+https://drive.google.com/file/d/14pRy5P6nydSPFAe1t7yTcmWczMXslreu/view?usp=drive_link, 
+
+https://drive.google.com/file/d/10h9Wf-K0uE6QGGQ7IqZHeKi6G9FYIpQc/view?usp=drive_link
+
+Along with this, the data is already pulled directly in the code supplied in this GitHub repository, so you need not download them locally. 
